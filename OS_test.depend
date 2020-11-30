@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1606751084 source:e:\c++\os_test\main.cpp
+	<iostream>
+	"scheduler.h"
+	"banker.h"
+
+1606751531 e:\c++\os_test\scheduler.h
+	"utils.h"
+	"structs.h"
+
+1606751471 e:\c++\os_test\utils.h
+	<vector>
+	"structs.h"
+	<list>
+
+1606751502 e:\c++\os_test\structs.h
+	<string>
+
+1606737738 source:e:\c++\os_test\utils.cpp
+	"utils.h"
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<iomanip>
+
+1606750990 source:e:\c++\os_test\scheduler.cpp
+	<iostream>
+	<queue>
+	"scheduler.h"
+
+1606751118 e:\c++\os_test\banker.h
+	<vector>
+
+1606751225 source:e:\c++\os_test\banker.cpp
+	"banker.h"
+	<iostream>
+

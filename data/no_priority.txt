@@ -1,0 +1,8 @@
+job         	arrivalTime 	serviceTime 	startTime   	finishTime  	turnTime    	weightedTurnTime
+A              	0           	7           	0           	7           	7           	1           
+B              	2           	4           	11          	15          	13          	3.25        
+C              	4           	1           	15          	16          	12          	12          
+D              	5           	4           	7           	11          	6           	1.5         
+average turnTime: 	9.50
+average weigtedTurnTime: 4.44
+×÷ÒµÖ´ÐÐË³Ðò£ºAAAAAAADDDDBBBBC
